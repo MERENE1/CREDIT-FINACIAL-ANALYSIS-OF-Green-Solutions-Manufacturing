@@ -1,5 +1,6 @@
 # The credit and financial analysis of Green Solutions Manufacturing Ltd.
-this involved a multi-stage process that evaluated the company’s earnings quality, balance sheet strength, and strategic risk profile. According to the sources, the analysis followed these key procedural steps:
+this involved a multi-stage process that evaluated the company’s earnings quality, balance sheet strength, and strategic risk profile. According to the sources, the analysis followed these key procedural steps
+### notion project plan : https://www.notion.so/CREDIT-FINACIAL-ANALYSIS-OF-Green-Solutions-Manufacturing-2d09e50b269a80898bb9ffe09e316856?source=copy_link
 ## Quantitative Earnings and Profitability Analysis
 The analysis began by calculating Total Revenue using the standard formula (Price per Unit × Quantity Sold) to determine the company's gross income before expenses.
 • Top-line Growth: Analysts observed a 64.7% increase in revenue, rising from $34 million to $56 million.
